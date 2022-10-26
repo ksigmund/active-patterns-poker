@@ -257,8 +257,3 @@ PokerHand.create (
 |> PokerHand.description
 
 let random () = PokerHand.randomHand () |> PokerHand.description
-
-
-// Pt9hk.ZVgj7Az3Zr982XngI_tM.6-al23E
-
-// Pt9hk.ZVgj7Az3Zr982XngI_tM.6-al23E
